@@ -1,1 +1,2 @@
-# CS156_machine_learning
+# CS156 Machine Learning Course
+
